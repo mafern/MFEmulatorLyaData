@@ -1,0 +1,5 @@
+Prediction txt files (xxx_preds.txt):
+--mean prediction and std for test simulations
+--shape is (2, nsims*nz*nk=4500), reshape as (2, nsims=10, nz=18, nk=25)
+--index 0 is mean
+--index 1 is std
