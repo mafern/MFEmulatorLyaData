@@ -6,7 +6,7 @@ Each HDF5 file has an associated parameter file in JSON format (LF_params.json, 
 
 Redshifts are from 
 $z=5.4-2$ spaced by 
-$\Delta z=0.2$.
+$\Delta$z$=0.2$.
 
 Multi-fidelity folders (MF-30-5, MF-40-6) contain Lyman-$\alpha$ forest flux power spectra for select multi-fidelity emulators, in plain text format (for use with the multi-fidelity emulation code in [lya_emulator_full](https://github.com/sbird/lya_emulator_full)).
 
