@@ -1,5 +1,5 @@
 # MFEmulatorLyaData
-Select simulation data and emulator predictions from [http://arxiv.org/abs/2207.06445](arXiv:2207.06445)
+Select simulation data and emulator predictions from [arXiv:2207.06445](http://arxiv.org/abs/2207.06445)
 
 Simulation data sets, in HDF5 format, include Lyman-$\alpha$ forest flux power spectra for three sets of simulations; low resolution (LF_flux_vectors.hdf5), high resolution (HF_flux_vectors.hdf5), and testing (TEST_flux_vectors.hdf5).
 Each HDF5 file has an associated parameter file in JSON format (LF_params.json, HF_params.json, TEST_params.json).
